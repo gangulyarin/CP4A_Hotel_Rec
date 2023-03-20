@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="Recommendation">
+  <name>Recommendation</name>
+  <uuid>c4a3453a-bc1f-4ade-95b1-ab95087b5c4e</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#daefa42a-24b3-44d6-a660-015c7f632ae1"/>
+  <targetRuleProject href="../../Recommendation#50552680-8799-495f-b53f-32d59571c20a"/>
+  <tags key="operationDescription">
+    <value><![CDATA[""]]></value>
+  </tags>
+  <tags key="operationName">
+    <value><![CDATA["Recommendation"]]></value>
+  </tags>
+  <tags key="exposedAtRuntime">
+    <value><![CDATA[true]]></value>
+  </tags>
+</com.ibm.rules.studio.model.decisionservice:Operation>
